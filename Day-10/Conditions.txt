@@ -1,0 +1,31 @@
+Conditional Statements
+Python uses the keywords if, elif (else if), and else to control the flow of execution. Essential rules include adding a colon (:) after every condition and using consistent indentation (usually four spaces) to define what code lives inside the block. 
+
+1.simpleif
+2.if else
+3.elif laddder
+4.nested if
+-----------------------
+if cond:
+    #Statements
+----------------------
+if cond:
+    #Statements
+else:
+     #stms f
+     -----------------------
+if cond:
+ #stms t
+ else:
+    #stms f
+----------------------
+if cond:
+   #s1
+elif cond2:
+    #s2
+.....
+else(opt):
+    #Statements
+    ----------------------
+    
+     
