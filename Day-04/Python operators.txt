@@ -1,0 +1,17 @@
+4:10 PM 8/7/2026
+
+Python operators:-
+7 types of operators 
+Arthematic 
+Comparison 
+Assignment
+relational 
+Membership
+Identity
+bit-wise
+
+Arthematic 
++ - div mod 
+
+Comparison
+ 
