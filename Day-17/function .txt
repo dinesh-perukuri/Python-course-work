@@ -1,0 +1,36 @@
+Defination:-
+
+Functions in Python provide modular, reusable blocks of code that improve organization, 
+reduce repetition, and support advanced programming paradigms
+
+Advantages:-
+--> Code Reusability: Write a block of code once and call it multiple times across your program, 
+saving time and effort.
+
+--> Modularity: Break down large, complex problems into smaller, 
+manageable, and logical sub-tasks.
+
+--> Variable Length Arguments (*args and **kwargs): Accept an arbitrary
+ number of positional or keyword arguments dynamically.
+
+ --> First-Class Citizens: Treat functions as objects—assign them to variables, pass them as arguments, 
+ and return them from other functions.
+
+ --> Anonymous (Lambda) Functions: Create small, one-line inline functions dynamically 
+ without formally defining them with the def keyword.
+
+ --> Built-in Docstrings: Embed documentation directly inside functions using triple quotes, 
+ accessible via __func__.__doc__  .
+
+ --> Multiple Return Values: Return multiple values simultaneously packed as a single tuple.
+
+ --> Positional-Only and Keyword-Only Parameters: Enforce how arguments are passed using / and * syntax for robust APIs.
+
+ --> Nested (Inner) Functions: Define functions inside other functions to encapsulate helper logic 
+ and implement closures.
+
+--> Recursive Capabilities: Allow a function to call itself directly or indirectly to solve 
+repetitive mathematical or structural problems (like tree traversals).
+-------------------------------------------------------------------------------------------------------------------------------
+--> Function are two types Builtin & user-defined functions 
+
