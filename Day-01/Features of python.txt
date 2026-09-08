@@ -1,0 +1,95 @@
+11:21 PM 8/4/2026
+
+Features of Python:-
+
+1) Easy to Learn and Read
+-->Uses simple, English-like syntax.
+-->Easy for beginners to understand and write.
+
+2) Interpreted Language
+-->Python code is executed line by line by an interpreter.
+-->No need to compile the code before running it.
+
+3) High-Level Language
+-->Handles low-level details like memory management automatically.
+-->Allows programmers to focus on solving problems.
+
+4) Object-Oriented
+-->Supports classes and objects.
+-->Promotes code reuse through inheritance, encapsulation, and polymorphism.
+
+5) Platform Independent
+-->Python programs can run on Windows, macOS, Linux, and other operating systems with little or no modification.
+
+
+6) Open Source
+-->Free to download, use, and modify.
+-->Supported by a large global community.
+
+7) Large Standard Library
+-->Includes built-in modules for file handling, networking, web development, databases, data processing, and more.
+
+8) Dynamically Typed
+-->You don't need to declare variable types explicitly.
+-->Types are determined at runtime.
+
+
+9) Supports Multiple Programming Paradigms
+-->Object-oriented programming (OOP)
+-->Procedural programming
+-->Functional programming
+
+10) Extensible and Embeddable
+-->Can be extended with C/C++ modules for better performance.
+-->Can also be embedded into other applications.
+
+
+11) Automatic Memory Management
+-->Uses garbage collection to automatically free unused memory.
+
+
+12) Rich Ecosystem
+-->Thousands of third-party libraries and frameworks, such as:
+-->NumPy for numerical computing
+-->Pandas for data analysis
+-->Django and Flask for web development
+-->TensorFlow and PyTorch for machine learning
+
+13)Versatile Applications
+-->Web development
+-->Data science and analytics
+-->Artificial intelligence and machine learning
+-->Automation and scripting
+-->Game development
+-->Desktop applications
+-->Cybersecurity
+-->Internet of Things (IoT)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Class is a blueprint with Attributes & Methods 
+
+People who uses applications called as object 
+Instance of a class (or) application is called as class 
+
+Encapsulation:-
+-->The process of binding the data and providing security to attributes is called encapsulation 
+
+
+Inheritance:-
+-->Older to newer version with replicated update 
+
+
+Polymorphism:-
+-->In single application more tasks were performing at a time 
+same user but different behaviour in the application 
+EX- A premium user won't get ads in you tube 
+        Normal user can get ads to his runtime of application 
+
+
+Abstraction:-
+--->Hiding the complexity
+-->Showing the relevant information
+-->End action is called abstraction 
+
+
